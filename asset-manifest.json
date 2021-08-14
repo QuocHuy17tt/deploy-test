@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/QuocHuy17tt/deploy-test/static/css/main.6c26f4d1.chunk.css",
+    "main.js": "/QuocHuy17tt/deploy-test/static/js/main.3d5536e4.chunk.js",
+    "main.js.map": "/QuocHuy17tt/deploy-test/static/js/main.3d5536e4.chunk.js.map",
+    "runtime-main.js": "/QuocHuy17tt/deploy-test/static/js/runtime-main.1744a6a0.js",
+    "runtime-main.js.map": "/QuocHuy17tt/deploy-test/static/js/runtime-main.1744a6a0.js.map",
+    "static/js/2.d24eebc6.chunk.js": "/QuocHuy17tt/deploy-test/static/js/2.d24eebc6.chunk.js",
+    "static/js/2.d24eebc6.chunk.js.map": "/QuocHuy17tt/deploy-test/static/js/2.d24eebc6.chunk.js.map",
+    "index.html": "/QuocHuy17tt/deploy-test/index.html",
+    "static/css/main.6c26f4d1.chunk.css.map": "/QuocHuy17tt/deploy-test/static/css/main.6c26f4d1.chunk.css.map",
+    "static/js/2.d24eebc6.chunk.js.LICENSE.txt": "/QuocHuy17tt/deploy-test/static/js/2.d24eebc6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1744a6a0.js",
+    "static/js/2.d24eebc6.chunk.js",
+    "static/css/main.6c26f4d1.chunk.css",
+    "static/js/main.3d5536e4.chunk.js"
+  ]
+}
